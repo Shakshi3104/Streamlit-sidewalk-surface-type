@@ -2,6 +2,8 @@
 
 This is a dashboard of "Estimation of Sidewalk Surface Type with a Smartphone" by using [Streamlit](https://www.streamlit.io)
 
+Streamlit is open-source app framework is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours!
+
 ![page](materials/sidewalk-Streamlit.png)
 
 ## Usage
