@@ -2,6 +2,8 @@
 
 This is a dashboard of "Estimation of Sidewalk Surface Type with a Smartphone" by using [Streamlit](https://www.streamlit.io)
 
+![page](materials/sidewalk-Streamlit.png)
+
 ## Usage
 ```bash
 $ streamlit run sidewalk.py
